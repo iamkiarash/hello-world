@@ -1,2 +1,3 @@
 # hello-world
-i am learning how to use GitHub.
+I am learning how to use GitHub.
+My goal is to make interesting contribution to community.
